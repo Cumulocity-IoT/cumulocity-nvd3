@@ -1,4 +1,7 @@
 # NVD3 - v1.1.15-beta
+
+## A fork made to get rid of the svg css selector
+
 ## Release notes for version 1.1.15 beta
 * Various fixes across the board
 
