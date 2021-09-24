@@ -1,3 +1,5 @@
+# Archived -- this repository is archived and is not a valid Cumulocity example anymore
+
 # NVD3 - v1.1.15-beta
 
 ## A fork made to get rid of the svg css selector
